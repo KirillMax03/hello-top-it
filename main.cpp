@@ -1,5 +1,5 @@
 # include <iostream>
-int ()
+int main ()
 {
-str::cout<<"Hello world";
+std::cout<<"Hello world";
 }
