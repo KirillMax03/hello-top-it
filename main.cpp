@@ -1,7 +1,6 @@
 #include <iostream>
 int main ()
 {
-std::cout<<"Hi, top-it";
+std::cout<<"Hello, top-it";
 std::cout<<"\n";
-std::cout<<"My name is Maksimov Kirill\n";
 }
